@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Charles Alexander Lanahan -- Creator -- Stuff
+
+# THANKS
+
+    Obama
+
+# TECHNOLOGY COLOPHON
+
+    HTML, CSS, jQuery, ruby, Linux, GNU, jekyll
